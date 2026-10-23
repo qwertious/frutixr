@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+Thumbs.db
+
+# Built wallpaper APKs (published as releases instead)
+*.apk
+*.apk.idsig
+*.keystore
